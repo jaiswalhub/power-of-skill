@@ -1,4 +1,5 @@
 # power-of-skill
 skill is most important for survival
 AI technology
-pmkvy is provide many skill programm
+pmkvy is provide many skill project idea.
+
